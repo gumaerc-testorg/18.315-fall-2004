@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 18c51838-e456-c0d5-a63b-ecd70ad7f767
 ---
@@ -42,7 +43,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/prob1))
+Problem Set 1 ({{< resource_link 2f2ab04b-ef6b-dac9-8ded-7ce8d3c33402 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in two from 1.1-1.7. Ideally you should work on all seven problems, but you should hand in only your two "best" problems, i.e., the ones whose solutions you feel are the most difficult and/or interesting
@@ -54,7 +55,7 @@ Lecture 7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/prob2))
+Problem Set 2 ({{< resource_link 90065d4d-3143-bfd6-ddd1-0db023ef29fa "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in two from 2.1-2.10
@@ -66,7 +67,7 @@ Lecture 11
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/prob3))
+Problem Set 3 ({{< resource_link 511f7e54-680a-1eca-1298-610e3d568a0f "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in two from 3.1-3.7, 4.1, 4.3, 4.10-4.11, 4.20
@@ -78,7 +79,7 @@ Lecture 16
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/prob4))
+Problem Set 4 ({{< resource_link ee881e74-20e0-afcc-ab4c-84a533673eef "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in one from 4.4-4.9, 4.12-4.19, and one from 5.1, 5.4, 5.6-5.9
@@ -90,7 +91,7 @@ Lecture 22
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/prob5))
+Problem Set 5 ({{< resource_link c62cf82b-f29c-2e6f-fe7b-a6dc1c2bd945 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in two from 5.10-5.18, 5.24-5.29
@@ -102,7 +103,7 @@ Lecture 27
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/prob6))
+Problem Set 6 ({{< resource_link 2c4c7a9b-426f-83f8-d774-054ddedcc735 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in 6.1 and one further problem from 6.3-6.8
