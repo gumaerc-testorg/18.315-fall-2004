@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a bibliography for Hyperplane Arrangements.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: db4a8a5a-f4f9-c606-4548-a31d1683a8f9
 ---
