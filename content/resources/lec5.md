@@ -7,7 +7,7 @@ description: These lecture notes on hyperplane arrangements are based on a lectu
   is included, as well as numerous exercises. After going through these notes a student
   should be ready to study the deeper algebraic and topological aspects of the theory
   of hyperplane arrangements.
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/703f0b5aecce90b89f34d10d9f52ac54_lec5.pdf
+file: /courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/703f0b5aecce90b89f34d10d9f52ac54_lec5.pdf
 file_size: 359853
 file_type: application/pdf
 learning_resource_types:
