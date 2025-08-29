@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned exercise problems of varying difficulty.
-file: /courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/c62cf82bf29c2e6ffe7ba6dc1c2bd945_prob5.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/c62cf82bf29c2e6ffe7ba6dc1c2bd945_prob5.pdf
 file_size: 207078
 file_type: application/pdf
 learning_resource_types:
